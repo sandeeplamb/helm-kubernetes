@@ -4,4 +4,4 @@
 
 Deploy the chart using command
 
-`helm install helm install --debug --name nginx-helm  nginx/`
+`helm install --debug --name nginx-helm  nginx/`
