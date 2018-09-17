@@ -1,3 +1,21 @@
 apiVersion: v1
-entries: {}
-generated: 2018-09-17T13:23:43.601584898+02:00
+entries:
+  nginx:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-09-17T15:42:44.499095818+02:00
+    description: A Helm chart for Kubernetes Nginx
+    digest: 55ff3c8e6ea0cc93461ed8df36ebab10dca71b5fa215b2fee72a3b48f6b95f72
+    engine: gotpl
+    keywords:
+    - nginx
+    kubeVersion: 1.10.3
+    maintainers:
+    - email: sandeep.lamba@grandparade.co.uk
+      name: Sandeep Lamba
+    name: nginx
+    tillerVersion: 2.9.1
+    urls:
+    - https://sandeeplamb.github.io/helm-kubernetes/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-09-17T15:42:44.498467896+02:00
