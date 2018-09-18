@@ -3,7 +3,7 @@ entries:
   nginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-17T15:42:44.499095818+02:00
+    created: 2018-09-17T16:00:39.639063892+02:00
     description: A Helm chart for Kubernetes Nginx
     digest: 55ff3c8e6ea0cc93461ed8df36ebab10dca71b5fa215b2fee72a3b48f6b95f72
     engine: gotpl
@@ -18,4 +18,4 @@ entries:
     urls:
     - https://sandeeplamb.github.io/helm-kubernetes/nginx-0.1.0.tgz
     version: 0.1.0
-generated: 2018-09-17T15:42:44.498467896+02:00
+generated: 2018-09-17T16:00:39.638422187+02:00
